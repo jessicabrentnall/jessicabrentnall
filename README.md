@@ -1,4 +1,4 @@
-[![Jessica White](https://res.cloudinary.com/dsfcrod4r/image/upload/v1595962911/header_image_segkfj.jpg)](https://jesswhite.co.uk/)
+[![Jessica White](https://res.cloudinary.com/dsfcrod4r/image/upload/v1630485589/header_image_segkfj_navbvm.jpg)](https://jesswhite.co.uk/)
 
 ## Hi! I'm Jessica 👋
 
