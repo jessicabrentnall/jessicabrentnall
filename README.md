@@ -2,7 +2,7 @@
 
 ## Hi! I'm Jessica 👋
 
-I'm a Principal Technical Architect, a [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003572), an international speaker and a mentor. I am also an elected member of the .NET Foundations Board of Directors.
+I'm a Principal Architect, a [Microsoft MVP in Developer Technologies](https://mvp.microsoft.com/en-us/PublicProfile/5003572), an international speaker and a mentor. I am also an elected member of the .NET Foundations Board of Directors.
 
 I enjoy learning about things, as well as teaching others and I'm the co-organiser of [DDD East Midlands Conference](https://github.com/DDDEastMidlandsLimited) and [.NET Notts meetups](https://github.com/dotnetnotts) and manage their repositories. Both are open source and have plenty of issue for you to pick up, so please do get involved and contribute to them. 
 
