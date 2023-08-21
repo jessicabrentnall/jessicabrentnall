@@ -1,4 +1,4 @@
-![Jessica Header](https://res.cloudinary.com/dsfcrod4r/image/upload/v1692626590/header_jess_sz8d5f.jpg)
+![Jessica Header](https://res.cloudinary.com/dsfcrod4r/image/upload/v1692626979/plainheader_jess_cuinv0.jpg)
 
 ## Hi! I'm Jessica 👋
 
