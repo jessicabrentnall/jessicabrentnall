@@ -13,5 +13,5 @@ To find out more about what I get up to, check out [my activities page.](https:/
 ### Social Links:
 
 - [Mastodon](https://hachyderm.io/@jesswhite#)
-- [LinkedIn]([https://www.linkedin.com/in/jessica-white-67917883/](https://www.linkedin.com/in/jessica-b-67917883/)https://www.linkedin.com/in/jessica-b-67917883/)
-- [Blog]([https://jesswhite.co.uk/](https://jessicabrentnall.co.uk/)https://jessicabrentnall.co.uk/)
+- [LinkedIn](https://www.linkedin.com/in/jessica-b-67917883/)
+- [Blog](https://jessicabrentnall.co.uk/)
