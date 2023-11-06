@@ -8,10 +8,10 @@ I'm the co-organiser and co-founder of [DDD East Midlands Conference](https://dd
 
 I love a good cup of coffee as much as I love a good book. Happy to chat over a coffee about tech, the universe and everything. 
 
-To find out more about what I get up to, check out [my activities page.](https://jesswhite.co.uk/activity/)
+To find out more about what I get up to, check out [my activities page.](https://jessicabrentnall.co.uk/activity/)
 
 ### Social Links:
 
-- [Mastodon](https://hachyderm.io/@jesswhite#)
-- [LinkedIn](https://www.linkedin.com/in/jessica-b-67917883/)
+- [Mastodon](https://hachyderm.io/@jessicab)
+- [LinkedIn](https://www.linkedin.com/in/jessica-brentnall/)
 - [Blog](https://jessicabrentnall.co.uk/)
