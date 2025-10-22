@@ -1,5 +1,3 @@
-![Jessica Header](https://res.cloudinary.com/dsfcrod4r/image/upload/v1692627115/plainheader_jess_rstdxm.jpg)
-
 ## Hi! I'm Jessica👋
 
 Some things about me:
