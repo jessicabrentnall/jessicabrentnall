@@ -2,7 +2,8 @@
 
 Some things about me:
 
-- Architecture & Engineering Leadership Contractor. Available for interim Head Of positions. Director of JBRENTNALL DIGITAL.
+- Architecture & Engineering Leadership Contractor.
+- Director of [JBRENTNALL DIGITAL LIMITED](https://www.linkedin.com/company/jbrentnall-digital-limited).
 - Speaks at conferences and meetups.
 - Microsoft MVP in Developer Technologies (2020-2025)
 - NET Foundations Board of Directors (2022 - 2024) and Chair of the .NET Foundation Membership Committee (2022 - 2024).
