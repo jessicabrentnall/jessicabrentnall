@@ -10,11 +10,11 @@ Some things about me:
 - Co-organiser and co-founder of [DDD East Midlands Conference](https://dddeastmidlands.com/) (2018 - 2025)
 - Manage the repositories for DDD East Midlands and the .NET Notts meetup.
 
-I love a good cup of coffee as much as I love a good book. Happy to chat over a coffee about tech, the universe and everything. 
-
-✨ Check out how I can help you on a contract basis by reading this [services page.](https://jessicabrentnall.co.uk/services/)
+✨ Check out how I can help you on a contract basis by reading this [services page](https://jessicabrentnall.co.uk/services/)
 
 ### Social Links:
 
+- [Website](https://jessicabrentnall.co.uk/)
+- [Blog](https://jessicabrentnall.co.uk/blog)
 - [LinkedIn](https://www.linkedin.com/in/jessica-brentnall/)
-- [Blog](https://jessicabrentnall.co.uk/)
+- [Sessionize](https://sessionize.com/jessica-b/)
